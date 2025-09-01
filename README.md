@@ -9,6 +9,7 @@ Listar películas: Muestra todas las películas que están actualmente en el cat
 Buscar película: Busca una película por su nombre (ignorando mayúsculas y minúsculas) y muestra si fue encontrada y en qué línea del archivo se encuentra.
 
 Salir: Termina la ejecución de la aplicación.
+
 --------------------------------------------------------------
 Cómo ejecutar la aplicación:
 
